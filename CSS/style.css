@@ -1,4 +1,22 @@
-img{
-    
+image {
+    width: 100px;
+    height: 70px;
+    left: 60px;
+}
+ body{
+    color: brown;
  }
+.blue{
+    color: blue;
+
+}
+    h1{
+        color: blue;
+    }
+    img{
+        width: 70px;
+        height: 90px;
+        
+    }
+ 
 
